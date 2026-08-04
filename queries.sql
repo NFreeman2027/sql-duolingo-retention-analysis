@@ -33,7 +33,7 @@ GROUP BY
 ORDER BY 
     practice_bin_order ASC;
 # -----------------------------------------------------------------------------
-# Key Takeaway : Analysis revealed an initial slight dip in perfection rate during early practice stages (3-4 exposures at 82.83%),
+# Key Finding : Analysis revealed an initial slight dip in perfection rate during early practice stages (3-4 exposures at 82.83%),
 # followed by steady recovery and plateauing near 84% accuracy once an item reaches 10+ exposures  
 # -----------------------------------------------------------------------------
 # * Top 3 Best Retention vs. Highest Forgetting - 
